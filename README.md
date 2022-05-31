@@ -1,6 +1,6 @@
 # 💫About Me :
 Trần Tuấn Anh <br>
-10/10/2001
+10/10/2001 <br>
 Yên Dũng, Bắc Giang
 
 ## 🌐Socials
